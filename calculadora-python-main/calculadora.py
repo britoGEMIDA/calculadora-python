@@ -103,7 +103,7 @@ class Calculadora:
         # Label "Escolher tema:"
         self.label_tema = ttk.Label(self.frame_tema, text="Escolher tema:", font=('Roboto', 12))
         self.label_tema.pack(side='top', pady=(0, 5))
-        self.label_tema = ttk.Label(self.frame_tema, text="Caroline Palaoro Cunha", font=('Roboto', 12))
+        self.label_tema = ttk.Label(self.frame_tema, text="Fernando Brito", font=('Roboto', 12))
         self.label_tema.pack(side='top', pady=(0, 5))
 
         #Seletor de temas (ComboBox)
